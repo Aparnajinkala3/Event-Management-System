@@ -208,7 +208,7 @@ You can add screenshots here:
 **Aparna Jinkala**
 
 - GitHub: https://github.com/Aparnajinkala3
-- LinkedIn: *(Add your LinkedIn profile here)*
+
 
 ---
 
@@ -216,8 +216,3 @@ You can add screenshots here:
 
 This project is developed for **learning and educational purposes**.
 
----
-
-## ⭐ If you like this project
-
-Give this repository a ⭐ on GitHub to support the project.
